@@ -9,5 +9,5 @@ Will be written by the project groups.<br>
 |No| People|
 |---|---|
 |: 1 :| AHMET ERAY KARADAĞ|
-|^^ | AHMET ALKAN |
-|^^ | SİTİ AİSHAH BİNTİ JOHAN İSKANDAR|
+|^^ || AHMET ALKAN |
+|^^ || SİTİ AİSHAH BİNTİ JOHAN İSKANDAR|
