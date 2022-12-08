@@ -4,7 +4,7 @@ Will be written by the project groups.<br>
 
 <br>
 
-## Team members:
+## Teams and members:
 
 |Team 1 : Developing Kafka-Spark-Cassandra infrastructure|
 |---|
