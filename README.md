@@ -9,6 +9,6 @@ Will be written by the project groups.<br>
 ## Team members:
 |Team No| People|
 |---|---|
-|: - :|: AHMET ERAY KARADAĞ :|
-|^^ 1 | AHMET ALKAN |
-|^^   | SİTİ AİSHAH BİNTİ JOHAN İSKANDAR|
+| 1   | AHMET ERAY KARADAĞ |
+|^^  | AHMET ALKAN |
+|^^   | SITI AİSHAH BINTI JOHAN ISKANDAR|
