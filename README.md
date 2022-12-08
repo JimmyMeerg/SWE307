@@ -3,7 +3,9 @@
 Will be written by the project groups.<br>
 
 <br>
+
 ## Team members:
+
 |Team 1 : Developing Kafka-Spark-Cassandra infrastructure|
 |---|
 | AHMET ERAY KARADAĞ |
