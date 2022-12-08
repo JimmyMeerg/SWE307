@@ -10,10 +10,10 @@ Will be written by the project groups.<br>
 |Team No| People|
 |---|---|
 | 1   | AHMET ERAY KARADAĞ |
-|^^  | AHMET ALKAN |
-|^^   | SITI AİSHAH BINTI JOHAN ISKANDAR|
+| 1   | AHMET ALKAN |
+| ^^   | SITI AİSHAH BINTI JOHAN ISKANDAR|
+| ^^   | MERT CAN PEKDEMİR|
 
-| 2   | MERT CAN PEKDEMİR
-|     | MUHAMMAD ZUL IMAN BIN ZUL WIZARATAIN
-|     | MERVE BÜLBÜL
-|     | MÜZEYYEN ÇELİK
+|     | MUHAMMAD ZUL IMAN BIN ZUL WIZARATAIN |
+|     | MERVE BÜLBÜL |
+|     | MÜZEYYEN ÇELİK |
