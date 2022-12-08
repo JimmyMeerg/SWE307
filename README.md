@@ -12,3 +12,8 @@ Will be written by the project groups.<br>
 | 1   | AHMET ERAY KARADAĞ |
 |^^  | AHMET ALKAN |
 |^^   | SITI AİSHAH BINTI JOHAN ISKANDAR|
+
+| 2   | MERT CAN PEKDEMİR
+|     | MUHAMMAD ZUL IMAN BIN ZUL WIZARATAIN
+|     | MERVE BÜLBÜL
+|     | MÜZEYYEN ÇELİK
