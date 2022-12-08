@@ -8,6 +8,6 @@ Will be written by the project groups.<br>
 ## Team members:
 |No| People|
 |---|---|
-|1| AHMET ERAY KARADAĞ|
+|: 1 :| AHMET ERAY KARADAĞ|
 |^^ | AHMET ALKAN |
 |^^ | SİTİ AİSHAH BİNTİ JOHAN İSKANDAR|
