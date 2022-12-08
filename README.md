@@ -6,7 +6,7 @@ Will be written by the project groups.<br>
 **Team 3:** Developing web pages.
 **Team 4:** Developing Hadoop file system for image file repository.
 ## Team members:
-|No| People|
+|**Team No**| **People**|
 |---|---|
 |^^ - || AHMET ERAY KARADAĞ|
 |^^ 1 || AHMET ALKAN |
